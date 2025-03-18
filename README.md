@@ -1,5 +1,7 @@
-## Hi there 👋
-I'm still learning 🌱
+## Verily, I bid thee greetings
+I'm passionate about filling my contribution graph by learning and accomplishing something every day. Music is another interest of mine - I enjoy listening to great tunes and hope to create my own someday. Gaming is also a hobby of mine and I'd love to develop my own game in the future. I'm particularly fond of the Final Fantasy and Suikoden series. Lastly, I enjoy reading novels, especially fantasy adventure genres, with Rick Riordan's series being a notable favorite.
+
+I'm grateful for tools like META AI, ChatGPT, and Deepseek that help guide me in my learning journey and inform my decisions.
 
 <!--
 **sampm092/sampm092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
