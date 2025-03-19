@@ -6,9 +6,8 @@
 </br>
 I'm grateful for tools like META AI, ChatGPT, and Deepseek that help guide me in my learning journey and inform my decisions.
 
-
-<a href="https://info.flagcounter.com/D7KQ"><img src="https://s01.flagcounter.com/count/D7KQ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_18/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-<!--
+<a href="https://info.flagcounter.com/D7KQ"><img src="https://s01.flagcounter.com/count/D7KQ/bg_000000/txt_FFFFFF/border_F0F0F0/columns_3/maxflags_18/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="1"></a>
+  <!--
 **sampm092/sampm092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
