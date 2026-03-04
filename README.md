@@ -1,4 +1,4 @@
-## <i>Verily, I bid thee greetings</i>
+## <i>Greetings</i>
 📊 I'm a man who passionate in filling my contribution graph by learning and accomplishing something every day. </br>
 🎼 I love <a href="https://open.spotify.com/user/31eqh4vfut5zrnd5hhl2do2vma4e?si=r48sFhJ3QOGQc-CVW-R9WQ&fbclid=PAZXh0bgNhZW0CMTEAAaZvrXqiSmg1-goAvy7zLxFiAVecsHxexwiNaPHwyy3NmD9r73W0pT6DI04_aem_waQ6i9zIupp1zK_Z1xD8-w&nd=1&dlsi=4ddaa1f9208549c6" style="text-decoration: none;">Music</a>. Indonesian music, Western, Japanese, Korean, and Instrument are special for me  </br>
 🎮 I love <a href="https://steamcommunity.com/profiles/76561199002808105/" style="text-decoration: none;">Gaming</a>. I'd love to develop my own game in the future. I'm particularly fond of the Final Fantasy and Suikoden series, played Skyrim, some online gacha games, and many others. </br>
